@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Ajai Peddapanga
-- 👀 I’m interested in DevOps,CAF,Java
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on Azure samples on Java and Landing Zones
+ 
 
 
 <!---
